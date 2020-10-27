@@ -1,1 +1,1 @@
-AI-projekt
+Submission project for AI course at YH
